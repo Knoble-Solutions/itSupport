@@ -1,0 +1,1 @@
+Just a daily journal of the Summer '25 Course.
