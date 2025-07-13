@@ -1,1 +1,1 @@
-// Course paused, 72%
+// Course paused, 72% complete
