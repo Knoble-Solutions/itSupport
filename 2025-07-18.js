@@ -1,1 +1,1 @@
-// Course 3 of 6, 90% complete
+// Course 3 of 6, 90% complete  
